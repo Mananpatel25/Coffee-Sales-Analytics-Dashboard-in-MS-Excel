@@ -18,8 +18,8 @@ The dataset includes detailed transaction records with information such as:
 - Temporal Attributes (Month, Weekday, Hour)
 
 ## Tools and Technologies
-- **Data Processing**: Pandas
-- **Visualization**: PowerBI/Excel Dashboard (insert details here)
+- **Data Processing**: MS Excel
+- **Visualization**: MS Excel Dashboard
 - **Excel**: For data storage and initial analysis
 
 ## How to Use
